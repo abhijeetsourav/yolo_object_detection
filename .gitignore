@@ -1,2 +1,5 @@
 # Virtual environment directories
 myenv/
+
+# dotenv
+.env
